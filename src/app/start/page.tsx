@@ -1,6 +1,6 @@
 'use client';
 import { useState } from "react";
-import translations from "@/components/Translate/translations";
+import translations from "@/components/translate/translations";
 
 const Start = () => {
     const [language, setLanguage] = useState<"en" | "es">("en");
