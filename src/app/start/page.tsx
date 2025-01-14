@@ -7,7 +7,7 @@ const Start = () => {
                         HI, I&#39;m Maicol Alvarez, a software engineer and a designer. I&#39;m
                         passionate about creating beautiful and functional user interfaces.
                         I&#39;m excited to bring my skills and creativity to the next level by
-                        building web applications with Next.js.
+                        building web applications.
                     </li>
                 </ol>
             </main>
