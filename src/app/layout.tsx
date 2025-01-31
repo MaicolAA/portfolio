@@ -35,7 +35,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Head>
-          <title>Maicol's Portfolio</title>
+          <title>Maicol&#39;s Portfolio</title>
           <meta name="description" content="Created by Maicol Alvarez" />
         </Head>
 
@@ -46,7 +46,7 @@ export default function RootLayout({
             animate="animate"
             exit="exit"
             variants={pageVariants}
-            transition={{ duration: 0.3 }}
+            transition={{ duration: 0.5 }}
           >
             {children}
           </motion.div>
